@@ -1,10 +1,10 @@
 @echo off
 
  set dbUser=root
- set dbPassword=
- set backupDir="G:\LOCALHOST_MySQL_DB_Backup\"
- set mysqldump="G:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump.exe"
- set mysqlDataDir="G:\wamp\bin\mysql\mysql5.6.17\data"
+ set dbPassword=password-if-any
+ set backupDir="D:\LOCALHOST_MySQL_DB_Backup\"
+ set mysqldump="D:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump.exe"
+ set mysqlDataDir="D:\wamp\bin\mysql\mysql5.6.17\data"
  set zip="C:\Program Files\7-Zip\7z.exe"
 
  set datetimef=%date%
