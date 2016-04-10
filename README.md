@@ -7,4 +7,4 @@
 1. To do this you will need to create a *.bat file (using notepad). Open up notepad and copy and paste the script below.
 2. You will require to change the dbUser, dbPassword, backupDir, mysqldump, mysqlDataDir and zip file/app locations.
 3. Save the file as mysqlbackup.bat
-4. This script will now be executable. Go to your command promt and run this to backup your databases.
+4. This script will now be executable. Go to your command prompt and run this to backup your databases.
