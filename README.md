@@ -1,4 +1,4 @@
-# MySQL DataBases Backup Using Windows Batch file
+# MySQL DataBase Backup Using Windows Batch file
 * Use this to Backup all of your MySQL databases on your local WAMPServer machine.
 * It will create a backup file in separate gzipped sql files.
 * You can also automate the execution of this script using Windows Task Scheduler.
