@@ -9,7 +9,7 @@
 
  set datetimef=%date%
  set datetimef=%datetimef: =0%
- :: if the directory structure is not correct comment the above line and uncomment the followings two lines
+ :: if the directory structure is not correct comment the above line and uncomment the following two lines
  :: set datetimef=%datetimef: =_%
  :: set datetimef=%datetimef:/=_%
 
