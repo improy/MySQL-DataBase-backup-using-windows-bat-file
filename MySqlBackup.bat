@@ -9,6 +9,9 @@
 
  set datetimef=%date%
  set datetimef=%datetimef: =0%
+ :: if the directory structure is not correct comment the above line and uncomment the followings two lines
+ :: set datetimef=%datetimef: =_%
+ :: set datetimef=%datetimef:/=_%
 
  echo dirName=%datetimef%
  set dirName=%datetimef%
